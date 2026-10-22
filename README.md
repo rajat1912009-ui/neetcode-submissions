@@ -1,8 +1,9 @@
-# NeetCode Solutions — @rajat1912009-ui
+# NeetCode Solutions
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
+# WARNING ⚠️ Repo paused until november 2026
 
 ## What is this?
 
